@@ -1,0 +1,13 @@
+1. Circles
+	+ Circles Perse				
+		- Membership Create
+		- Membership List
+		- Membership Detail		
+		- Membership Invitation
+	+ Circles ride
+		- Ride List General (Feed)
+		- Ride Detail
+		- Ride finish
+		- Ride Join		
+
+Hacer un buscador de circulos y otro de rides dentro de tus circulos, con filtros (más puntuado, por fechas y slug_name like 'aiojdf')
